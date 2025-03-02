@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 <!--
 **2shining/2shining** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
