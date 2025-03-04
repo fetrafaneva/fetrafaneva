@@ -1,5 +1,5 @@
-# 👋 Bonjour, je suis [Ton Nom] !  
-### 💻 Développeur [Spécialité] | Passionné par [Sujet]
+# 👋 Bonjour, je suis RASAMIMANANA Fetra Faneva !  
+### 💻 Développeur Informatique | Passionné par le développement Web
 
 ---
 
