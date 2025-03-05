@@ -11,10 +11,10 @@
 ---
 
 ## 🛠️ Compétences  
-- 🔹 **Langages** : [Ex : Dart, JavaScript, Python...]  
-- 🔹 **Frameworks** : [Ex : Flutter, React, Laravel...]  
-- 🔹 **Bases de données** : [Ex : MySQL, PostgreSQL...]  
-- 🔹 **Outils & DevOps** : [Ex : Git, Docker, Firebase...]  
+- 🔹 **Langages** : [Dart, JavaScript, Python...]  
+- 🔹 **Frameworks** : [Flutter, React, Laravel...]  
+- 🔹 **Bases de données** : [MySQL, PostgreSQL...]  
+- 🔹 **Outils & DevOps** : [Git, Docker, Firebase...]  
 
 ---
 
@@ -37,9 +37,8 @@
 ---
 
 ## 📫 Me contacter  
-📧 Email : [ton.email@example.com](mailto:ton.email@example.com)  
-💼 LinkedIn : [linkedin.com/in/tonprofil](https://linkedin.com/in/tonprofil)  
-🌐 Portfolio : [ton-site.com](https://ton-site.com)  
+📧 Email : [fetrafaneva@gmail.com](mailto:fetrafaneva@gmail.com)  
+ 
 
 ---
 
