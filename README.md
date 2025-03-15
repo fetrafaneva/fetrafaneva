@@ -13,7 +13,7 @@
 ## 🛠️ Compétences  
 - 🔹 **Langages** : [Dart, JavaScript, Python, C++...]  
 - 🔹 **Frameworks** : [Flutter, React, Laravel...]  
-- 🔹 **Bases de données** : [MySQL, PostgreSQL...]  
+- 🔹 **Bases de données** : [MySQL, PostgreSQL, SQFlite...]  
 - 🔹 **Outils & DevOps** : [Git, Docker, Firebase...]  
 
 ---
