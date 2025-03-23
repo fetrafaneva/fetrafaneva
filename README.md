@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis RASAMIMANANA Fetra Faneva !  
+# Bonjour, je suis RASAMIMANANA Fetra Faneva 👋 !  
 ### 💻 Développeur Informatique | Passionné par le développement Web
 
 ---
@@ -42,4 +42,4 @@
 
 ---
 
-🔥 _"Codez avec passion, apprenez sans limites !!"_  
+🔥 _"Codez avec passion, apprenez sans limites !!§"_  
