@@ -1,16 +1,24 @@
-### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
+Hey there 👋  
 
-I’m [**Faneva**](https://www), a Full-Stack MERN developer and a UI/UX Designer based in FIANARANTSOA.
+I'm **Faneva**, a **Full-Stack MERN Developer** and **UI/UX Designer** based in **Fianarantsoa** 🇲🇬.  
+I design and build whatever I can imagine — from clean user interfaces to full-stack applications.
 
-I design and build whatever I can imagine.
+### 🚀 Tech Stack
+- **MERN**: MongoDB, Express, React, Node.js  
+- **Mobile**: Flutter / Dart  
 
-My main tech stack is MERN (MongoDB, Express, React, Node.js) and Flutter/Dart. My favorite tools are Figma, Adobe XD, and Workflow.
+### 🎨 Design Tools
+- Figma  
+- Adobe XD  
+- Workflow  
 
-My favorite project i've done is [MERN_AIResume](https://github.com/fetrafaneva/MERN_AIResume).
+### ⭐ Favorite Project
+- **MERN_AIResume** – my favorite project so far
 
-#### Fun Facts:
+### 🎯 Fun Facts
+- 🏀 I love basketball  
+- 🚗 I don’t know how to drive a car  
+- 🏐 *Haikyū!!* is my favorite anime  
 
-* I love basketball
-* I don’t know how to drive a car
-* Haikyū!! is my favorite anime
-* **Hobbies:** anime, sport, building things
+### 🎧 Hobbies
+Anime, sports, and building things
