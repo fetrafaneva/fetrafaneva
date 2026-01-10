@@ -13,4 +13,4 @@ My favorite project i've done is [MERN_AIResume](https://github.com/fetrafaneva/
 * I love basketball
 * I don’t know how to drive a car
 * Haikyū!! is my favorite anime
-* **Hobbies:** anime, sport, building things
+* **Hobbies:** anime, sport
